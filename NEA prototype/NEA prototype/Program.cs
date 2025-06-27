@@ -32,10 +32,9 @@ namespace NEA_prototype
                 else if ((choice.Key == ConsoleKey.DownArrow || choice.Key == ConsoleKey.S) && CurrentOptionMainMenu == 6)
                 {
                     Console.CursorLeft = 0;
-                    CurrentOptionMainMenu = 1;
-                    Console.CursorTop = 1;
+                    Console.CursorTop = CurrentOptionMainMenu;
                     Console.Write(" ");
-                    CurrentOptionMainMenu++;
+                    CurrentOptionMainMenu = 1;
                     Console.CursorLeft = 0;
                     Console.CursorTop = CurrentOptionMainMenu;
                     Console.Write(">");
@@ -46,6 +45,16 @@ namespace NEA_prototype
                     Console.CursorTop = CurrentOptionMainMenu;
                     Console.Write(" ");
                     CurrentOptionMainMenu--;
+                    Console.CursorLeft = 0;
+                    Console.CursorTop = CurrentOptionMainMenu;
+                    Console.Write(">");
+                }
+                else if ((choice.Key == ConsoleKey.UpArrow || choice.Key == ConsoleKey.W) && CurrentOptionMainMenu > 1)
+                {
+                    Console.CursorLeft = 0;
+                    Console.CursorTop = CurrentOptionMainMenu;
+                    Console.Write(" ");
+                    CurrentOptionMainMenu = 6;
                     Console.CursorLeft = 0;
                     Console.CursorTop = CurrentOptionMainMenu;
                     Console.Write(">");
