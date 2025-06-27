@@ -1,0 +1,9 @@
+C:\Users\wzhdi\OneDrive\Desktop\NEA prototype\NEA prototype\bin\Debug\NEA prototype.exe.config
+C:\Users\wzhdi\OneDrive\Desktop\NEA prototype\NEA prototype\bin\Debug\NEA prototype.exe
+C:\Users\wzhdi\OneDrive\Desktop\NEA prototype\NEA prototype\bin\Debug\NEA prototype.pdb
+C:\Users\wzhdi\OneDrive\Desktop\NEA prototype\NEA prototype\obj\Debug\NEA prototype.csproj.AssemblyReference.cache
+C:\Users\wzhdi\OneDrive\Desktop\NEA prototype\NEA prototype\obj\Debug\NEA prototype.csproj.CoreCompileInputs.cache
+C:\Users\wzhdi\OneDrive\Desktop\NEA prototype\NEA prototype\obj\Debug\NEA prototype.exe
+C:\Users\wzhdi\OneDrive\Desktop\NEA prototype\NEA prototype\obj\Debug\NEA prototype.pdb
+C:\Users\wzhdi\OneDrive\Desktop\NEA prototype\NEA prototype\obj\Debug\NEA_prototype.PearsonsChartForm.resources
+C:\Users\wzhdi\OneDrive\Desktop\NEA prototype\NEA prototype\obj\Debug\NEA prototype.csproj.GenerateResource.cache
